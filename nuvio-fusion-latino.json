@@ -214,7 +214,7 @@
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/Jedstatic/nuvio-fusion-latino/main/assets/v7/dts.png",
       "isEnabled": true,
       "groupId": "audio-tech"
     },
@@ -226,7 +226,7 @@
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/Jedstatic/nuvio-fusion-latino/main/assets/v7/dtshd.png",
       "isEnabled": true,
       "groupId": "audio-tech"
     },
@@ -286,7 +286,7 @@
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/Jedstatic/nuvio-fusion-latino/main/assets/v7/bluray.png",
       "isEnabled": true,
       "groupId": "source"
     },
