@@ -310,7 +310,7 @@
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "imageURL": "https://raw.githubusercontent.com/Jedstatic/nuvio-fusion-latino/main/assets/v51/lat.png",
+      "imageURL": "https://raw.githubusercontent.com/Jedstatic/nuvio-fusion-latino/main/assets/v52/lat.png",
       "isEnabled": true,
       "groupId": "language"
     },
@@ -322,7 +322,7 @@
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "imageURL": "https://raw.githubusercontent.com/Jedstatic/nuvio-fusion-latino/main/assets/v51/multi.png",
+      "imageURL": "https://raw.githubusercontent.com/Jedstatic/nuvio-fusion-latino/main/assets/v52/multi.png",
       "isEnabled": true,
       "groupId": "language"
     },
@@ -334,7 +334,7 @@
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "imageURL": "https://raw.githubusercontent.com/Jedstatic/nuvio-fusion-latino/main/assets/v51/esp.png",
+      "imageURL": "https://raw.githubusercontent.com/Jedstatic/nuvio-fusion-latino/main/assets/v52/esp.png",
       "isEnabled": true,
       "groupId": "language"
     },
@@ -346,7 +346,7 @@
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "imageURL": "https://raw.githubusercontent.com/Jedstatic/nuvio-fusion-latino/main/assets/v51/eng.png",
+      "imageURL": "https://raw.githubusercontent.com/Jedstatic/nuvio-fusion-latino/main/assets/v52/eng.png",
       "isEnabled": true,
       "groupId": "language"
     },
